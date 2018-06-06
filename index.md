@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+## <!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Currículo</title>
+        <link type=text/css rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    
+    <h1>Hugo Gabriel de Souza Pinto Oliveira</h1>
+    
+    <h2>Informações de Contato</h2>
 
-You can use the [editor on GitHub](https://github.com/Nirvcobain/Curriculo-Desenvolvimento-Web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <ul>
+        <div class="b">
+        <li>Brasileiro,20 Anos,Solteiro</dt>
+        <li>Endereço - Rua Barão de Mesquita 850 Bloco B Apt:801</li>
+        <li>Grajaú - Rio de Janeiro - Rio de Janeiro</li> 
+        <li>Telefone - (21) xxxx-xxxx</li>
+        <li>Email - hgoliver123@outlook.com</li>
+        <div>
+        </div>
+        </ul>
+    
+    <hr>
+    
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <h2 style="text-align: ";>Objetivo Profissional</h2>
+    
+    <font size="3">Trabalhar na área de Tecnologia/Informática,programando ou desenvolvendo sites </font>
+    
+    <hr>
+        
+        
+    <h2>Formação Acadêmica</h2>
+       
+      <font size="4">
+        <ol>
+                     <li>Ensino Fundamental Completo</li>
+                     <li>Ensino Médio Completo</li>
+                     <li>Cursando 1°Período do Curso de Sistemas de Informação na Universidade Veiga de Almeida</li>
+    
+        </ol>
+          
+          <hr>
+    </font>
+        <h2>Outras Habilidades</h2>
+    <font size="4">
+    <p> Diploma Internacional em Lingua Inglesa,Expêriencia com Ferramentas do Windows,Conhecimento Básico de Excell e ferramentas de Edição de Texto
+            
+        
+        
+                
+     </p>   
+        
+    </font>
+        
+        
+        
+        
+        
+        
 
-### Markdown
+    
+    </body>
+        
+    
+    
+    
+    
+    
+    
+    
+      
+    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    
+    
 
-```markdown
-Syntax highlighted code block
+    
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+</html>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nirvcobain/Curriculo-Desenvolvimento-Web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    
